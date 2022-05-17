@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="T_axi_gpio_0_0_synth_1" LaunchDir="C:/T/T.runs/T_axi_gpio_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="T_xlslice_0_1_synth_1" LaunchDir="C:/T/T.runs/T_xlslice_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="T_xlslice_0_2_synth_1" LaunchDir="C:/T/T.runs/T_xlslice_0_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="T_xbar_0_synth_1" LaunchDir="C:/T/T.runs/T_xbar_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="T_xlslice_0_0_synth_1" LaunchDir="C:/T/T.runs/T_xlslice_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="T_xlslice_4_0_synth_1" LaunchDir="C:/T/T.runs/T_xlslice_4_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="T_v_tpg_0_0_synth_1" LaunchDir="C:/T/T.runs/T_v_tpg_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="T_processing_system7_0_0_synth_1" LaunchDir="C:/T/T.runs/T_processing_system7_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="T_xlslice_4_2_synth_1" LaunchDir="C:/T/T.runs/T_xlslice_4_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="T_xlslice_4_1_synth_1" LaunchDir="C:/T/T.runs/T_xlslice_4_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="T_util_vector_logic_0_0_synth_1" LaunchDir="C:/T/T.runs/T_util_vector_logic_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="T_v_tc_0_0_synth_1" LaunchDir="C:/T/T.runs/T_v_tc_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="T_rst_ps7_0_100M_0_synth_1" LaunchDir="C:/T/T.runs/T_rst_ps7_0_100M_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="T_xlslice_0_3_synth_1" LaunchDir="C:/T/T.runs/T_xlslice_0_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="T_v_axi4s_vid_out_0_0_synth_1" LaunchDir="C:/T/T.runs/T_v_axi4s_vid_out_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="T_auto_pc_0_synth_1" LaunchDir="C:/T/T.runs/T_auto_pc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="C:/T/T.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="T_axi_gpio_0_0_synth_1"/>
+		<Parent Id="T_xlslice_0_1_synth_1"/>
+		<Parent Id="T_xlslice_0_2_synth_1"/>
+		<Parent Id="T_xbar_0_synth_1"/>
+		<Parent Id="T_xlslice_0_0_synth_1"/>
+		<Parent Id="T_xlslice_4_0_synth_1"/>
+		<Parent Id="T_v_tpg_0_0_synth_1"/>
+		<Parent Id="T_processing_system7_0_0_synth_1"/>
+		<Parent Id="T_xlslice_4_2_synth_1"/>
+		<Parent Id="T_xlslice_4_1_synth_1"/>
+		<Parent Id="T_util_vector_logic_0_0_synth_1"/>
+		<Parent Id="T_v_tc_0_0_synth_1"/>
+		<Parent Id="T_rst_ps7_0_100M_0_synth_1"/>
+		<Parent Id="T_xlslice_0_3_synth_1"/>
+		<Parent Id="T_v_axi4s_vid_out_0_0_synth_1"/>
+		<Parent Id="T_auto_pc_0_synth_1"/>
+	</Run>
+</Runs>
+
